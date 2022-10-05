@@ -5,5 +5,18 @@
     <string name="get_started">GET STARTED</string>
     <string name="find_a_team_in_your_city_and_dominate_the_league">Find a team in your city and dominate the league</string>
     <string name="todo">TODO</string>
-    <string name="bg1">BG1</string>
+    <string name="bg1">BG</string>
+    <string name="desired_league">Desired League</string>
+    <string name="co_ed">Co Ed</string>
+    <string name="womens">Womens</string>
+    <string name="Womens">Womens</string>
+    <string name="coed">Co Ed</string>
+    <string name="next">NEXT</string>
+    <string name="logo_swoosh">logo swoosh</string>
+    <string name="bg2">bg2</string>
+    <string name="mens">Mens</string>
+    <string name="womens1">Womens</string>
+    <string name="co_ed1">Co Ed</string>
+    <string name="mens1">Mens</string>
+    <string name="mens2">Mens</string>
 </resources>
